@@ -2,7 +2,7 @@ Source: plymouth-theme-android-d
 Section: x11
 Priority: optional
 Maintainer: Archisman Panigrahi <apandada1@gmail.com>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper
 Standards-Version: 4.1.3
 
 Package: plymouth-theme-android-d
