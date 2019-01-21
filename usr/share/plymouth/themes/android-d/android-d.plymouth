@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Android -D
+Description=A theme that features a background with a logo - based on Xubuntu Logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/android-d
+ScriptFile=/usr/share/plymouth/themes/android-d/android-d.script
