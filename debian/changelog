@@ -1,3 +1,9 @@
+plymouth-theme-android-d (0.3) bionic; urgency=medium
+
+  * Yellow tinge in logo
+
+ -- Archisman Panigrahi <apandada1@gmail.com>  Tue, 05 Feb 2019 23:52:46 +0530
+
 plymouth-theme-android-d (0.2) bionic; urgency=medium
 
   * decreased time period
