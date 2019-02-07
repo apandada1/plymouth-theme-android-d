@@ -1,3 +1,9 @@
+plymouth-theme-android-d (0.4) bionic; urgency=medium
+
+  * Increased yellow tinge
+
+ -- Archisman Panigrahi <apandada1@gmail.com>  Thu, 07 Feb 2019 23:05:12 +0530
+
 plymouth-theme-android-d (0.3ubuntu1) bionic; urgency=medium
 
   * Yellow tinge in logo
