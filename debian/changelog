@@ -1,3 +1,9 @@
+plymouth-theme-android-d (0.4ubuntu1) bionic; urgency=medium
+
+  * Gradient
+
+ -- Archisman Panigrahi <apandada1@gmail.com>  Thu, 07 Feb 2019 23:11:02 +0530
+
 plymouth-theme-android-d (0.4) bionic; urgency=medium
 
   * Increased yellow tinge
